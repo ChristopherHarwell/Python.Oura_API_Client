@@ -1,4 +1,3 @@
-import os
 from dotenv import load_dotenv
 from auth import get_oura_client
 
