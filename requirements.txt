@@ -112,7 +112,7 @@ google-auth==2.35.0
 googleapis-common-protos==1.69.2
 greenlet==3.1.1
 grpcio==1.71.0
-h11==0.14.0
+h11==0.16.0
 h5py @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_4ed_3jzwco/croot/h5py_1715094733352/work
 heapdict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_41wcnzxzhr/croot/holoviews_1718294646103/work
