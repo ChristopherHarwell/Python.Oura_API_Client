@@ -186,7 +186,7 @@ levenshtein==0.25.1
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
 libmambapy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8b8wjifot8/croot/mamba-split_1714483537242/work/libmambapy
 linkify-it-py @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/linkify-it-py_1699255587400/work
-litellm==1.60.2
+litellm==1.61.15
 llvmlite @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a1dv4fk0r3/croot/llvmlite_1706910711755/work
 lmdb @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/python-lmdb_1699242995414/work
 locket @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/locket_1699239197253/work
