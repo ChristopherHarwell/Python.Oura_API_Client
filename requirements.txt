@@ -372,7 +372,7 @@ selenium==4.33.0
 semver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_99ujwp04tw/croot/semver_1709243633470/work
 send2trash @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/send2trash_1701803532643/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
-setuptools==69.5.1
+setuptools==78.1.1
 shellingham==1.5.4
 sip @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/sip_1699238710791/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
