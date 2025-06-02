@@ -1,18 +1,12 @@
 import os
 from dotenv import load_dotenv
-from oura_ring import OuraClient
+from auth import get_oura_client
 
 # Load environment variables from .env file
 load_dotenv()
 
-# Get the personal access token from environment
-pat = os.getenv("PERSONAL_ACCESS_TOKEN")
-
-if not pat:
-    raise ValueError("PERSONAL_ACCESS_TOKEN not found in environment. Please set it in your .env file.")
-
 # Create an OuraClient instance
-client = OuraClient(pat)
+client = get_oura_client()
 
 # Fetch and print personal info
 personal_info = client.get_personal_info()
