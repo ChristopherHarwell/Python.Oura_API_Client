@@ -261,7 +261,7 @@ pdfplumber==0.11.5
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pillow @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bdozlpra65/croot/pillow_1714398852206/work
-pip==24.3.1
+pip==25.2
 pkce @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pkce_1699241403777/work
 pkginfo @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_21aly_cba3/croot/pkginfo_1715695988648/work
 platformdirs @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/platformdirs_1701803010714/work
