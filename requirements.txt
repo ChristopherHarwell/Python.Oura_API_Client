@@ -348,7 +348,7 @@ queuelib @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/queue
 rapidfuzz==3.9.7
 referencing @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/referencing_1701803099840/work
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
 requests-oauthlib==2.0.0
 requests-toolbelt @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/requests-toolbelt_1699238632371/work
