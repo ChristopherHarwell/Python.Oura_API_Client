@@ -175,7 +175,7 @@ keyring @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_8f
 kiwisolver @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/kiwisolver_1699239145780/work
 kubernetes==31.0.0
 langchain==0.3.21
-langchain-core==0.3.47
+langchain-core==1.2.11
 langchain-ollama==0.3.0
 langchain-text-splitters==0.3.9
 langsmith==0.3.18
